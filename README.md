@@ -1,2 +1,7 @@
-# RDP-Kanda-8a2913b0
-Kanda RDP (GitHub Actions + Railway TCP bridge)
+# RDP Machine
+
+Thông tin kết nối (tự tạo bởi Kandagawa Bot):
+
+- **Name RDP (TCP Proxy)**: `nozomi.proxy.rlwy.net:57805`
+- **User**: `Kandagawa`
+- **Pass**: `Kandagw@12345`
